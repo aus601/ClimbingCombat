@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRExpPluginExample",
+			"Path": "D:\\Unreal Projects\\VRExpansion\\Source\\VRExpPluginExample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRExpPluginExampleEditor",
+			"Path": "D:\\Unreal Projects\\VRExpansion\\Source\\VRExpPluginExampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

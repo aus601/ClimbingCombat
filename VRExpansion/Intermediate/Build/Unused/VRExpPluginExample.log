@@ -1,0 +1,19 @@
+﻿  Creating makefile for VRExpPluginExampleEditor (no existing makefile)
+  Parsing headers for VRExpPluginExampleEditor
+    Running UnrealHeaderTool "D:\Unreal Projects\VRExpansion\VRExpPluginExample.uproject" "D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\VRExpPluginExampleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for VRExpPluginExampleEditor in 16.0469099 seconds
+  Building VRExpPluginExampleEditor...
+  Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 12 processes...
+    [1/7] Module.VRExpansionPlugin.gen.11_of_11.cpp
+    [2/7] Module.VRExpansionPlugin.3_of_3.cpp
+    [3/7] Module.VRExpansionPlugin.1_of_3.cpp
+    [4/7] UE4Editor-VRExpansionPlugin.lib
+       Creating library D:\Unreal Projects\VRExpansion\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.lib and object D:\Unreal Projects\VRExpansion\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.exp
+    [5/7] UE4Editor-VRExpPluginExample.dll
+       Creating library D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.suppressed.lib and object D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.suppressed.exp
+    [6/7] UE4Editor-VRExpansionPlugin.dll
+       Creating library D:\Unreal Projects\VRExpansion\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.lib and object D:\Unreal Projects\VRExpansion\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.suppressed.exp
+    [7/7] VRExpPluginExampleEditor.target
+  Total time in Parallel executor: 28.29 seconds
+  Total execution time: 47.25 seconds
