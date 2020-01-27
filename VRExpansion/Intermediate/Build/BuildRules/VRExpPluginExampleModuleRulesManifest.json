@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\VRExpansion\\Source\\VRExpPluginExample\\VRExpPluginExample.Build.cs",
+		"D:\\Unreal Projects\\VRExpansion\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\Unreal Projects\\VRExpansion\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\Unreal Projects\\VRExpansion\\Plugins\\VRExpansionPlugin\\OpenVRExpansionPlugin\\Source\\OpenVRExpansionPlugin\\OpenVRExpansionPlugin.Build.cs",
+		"D:\\Unreal Projects\\VRExpansion\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"D:\\Unreal Projects\\VRExpansion\\Source\\VRExpPluginExample.Target.cs",
+		"D:\\Unreal Projects\\VRExpansion\\Source\\VRExpPluginExampleEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.1"
+}

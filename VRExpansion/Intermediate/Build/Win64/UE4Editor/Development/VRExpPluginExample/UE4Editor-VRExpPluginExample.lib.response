@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRExpPluginExample.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\EmptyClassForProject.cpp.obj"
+"D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\VRExpPluginExample.cpp.obj"
+"D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\Default.rc2.res"
+/OUT:"D:\Unreal Projects\VRExpansion\Intermediate\Build\Win64\UE4Editor\Development\VRExpPluginExample\UE4Editor-VRExpPluginExample.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRExpPluginExample
